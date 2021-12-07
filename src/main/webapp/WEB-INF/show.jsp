@@ -10,6 +10,6 @@
 <body>
 	<h1>Here's Your Omikuji</h1>
 	<p>In <c:out value="${number}"></c:out>  years, you will live in <c:out value="${city}"></c:out> with <c:out value="${person}"></c:out> as your roommate,<c:out value="${hobby}"></c:out> for a living. The next time you see a <c:out value="${livingthing}"></c:out> you will have good luck. Also, <c:out value="${comment}"></c:out></p>
-
+	<a href="/Omikuji" >Go Back</a>
 </body>
 </html>
